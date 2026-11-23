@@ -1,0 +1,470 @@
+[
+  {
+    "id": "editor",
+    "file": "wp-blokeditor.jpg",
+    "url": "https://wordpress.org/documentation/files/2019/03/block-editor-overview-6.7-1024x579.jpg",
+    "page": "https://wordpress.org/documentation/article/wordpress-block-editor/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "WordPress-blokeditor met canvas, werkbalk en instellingen.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 1, slide 24"
+    ]
+  },
+  {
+    "id": "list",
+    "file": "wp-lijstweergave.png",
+    "url": "https://wordpress.org/documentation/files/2021/12/Screen-Shot-2021-12-21-at-3.45.27-PM.png",
+    "page": "https://wordpress.org/documentation/article/list-view/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Lijstweergave met geneste blokken in de WordPress-editor.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 2, slide 10"
+    ]
+  },
+  {
+    "id": "pattern",
+    "file": "wp-patronen.jpeg",
+    "url": "https://wordpress.org/documentation/files/2023/08/WP-6-3-create-patterns-1024x579.jpeg",
+    "page": "https://wordpress.org/documentation/article/block-pattern/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Patronen in de blokinvoeger van WordPress.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 2, slide 11"
+    ]
+  },
+  {
+    "id": "sync",
+    "file": "wp-synchroon-patroon.png",
+    "url": "https://wordpress.org/documentation/files/2021/07/Screenshot-2026-09-09-at-3.26.35-PM-1024x534.png",
+    "page": "https://wordpress.org/documentation/article/list-view/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Gesynchroniseerd patroon met de optie om het origineel te bewerken.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 2, slide 12"
+    ]
+  },
+  {
+    "id": "reading",
+    "file": "wp-startpagina.png",
+    "url": "https://wordpress.org/documentation/files/2021/06/options-reading.png",
+    "page": "https://wordpress.org/documentation/article/settings-reading-screen/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Instellingen voor de statische homepage en de berichtenpagina.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 2, slide 15"
+    ]
+  },
+  {
+    "id": "styles",
+    "file": "wp-stijlvariaties.png",
+    "url": "https://wordpress.org/documentation/files/2022/10/Screen-Shot-2022-10-13-at-12.04.54-PM.png",
+    "page": "https://wordpress.org/documentation/article/styles-overview/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Globale stijlvariaties in de Site-editor.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 2, slide 23"
+    ]
+  },
+  {
+    "id": "media",
+    "file": "wp-mediabibliotheek.png",
+    "url": "https://wordpress.org/documentation/files/2023/06/media-library-grid-view-1-1024x518.png",
+    "page": "https://wordpress.org/documentation/article/media-library-screen/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Raster met beelden in de WordPress-mediabibliotheek.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 2, slide 13"
+    ]
+  },
+  {
+    "id": "attachment",
+    "file": "wp-mediagegevens.png",
+    "url": "https://wordpress.org/documentation/files/2023/06/attachment-details-1-1024x580.png",
+    "page": "https://wordpress.org/documentation/article/media-library-screen/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Bijlagegegevens van een afbeelding in de mediabibliotheek.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 2, slide 14"
+    ]
+  },
+  {
+    "id": "query",
+    "file": "wp-query-loop.png",
+    "url": "https://wordpress.org/documentation/files/2021/07/query-loop-grid-featured-image.png",
+    "page": "https://wordpress.org/documentation/article/query-loop-block/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Query Loop met berichten en uitgelichte afbeeldingen in een raster.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 3, slide 24"
+    ]
+  },
+  {
+    "id": "query-list",
+    "file": "wp-query-structuur.png",
+    "url": "https://wordpress.org/documentation/files/2021/07/query-loop-list-view.png",
+    "page": "https://wordpress.org/documentation/article/query-loop-block/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Query Loop met geneste berichtblokken in de lijstweergave.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 4, slide 6"
+    ]
+  },
+  {
+    "id": "query-template",
+    "file": "wp-query-template.png",
+    "url": "https://wordpress.org/documentation/files/2021/07/query-loop-block-settings-default-selected-471x1024.png",
+    "page": "https://wordpress.org/documentation/article/query-loop-block/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Query Loop-instellingen met de keuze voor de templatequery.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 3, slide 25"
+    ]
+  },
+  {
+    "id": "query-custom",
+    "file": "wp-query-custom.png",
+    "url": "https://wordpress.org/documentation/files/2026/05/query-loop-custom-query-type-selected-outlined-513x1024.png",
+    "page": "https://wordpress.org/documentation/article/query-loop-block/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Query Loop-instellingen met een aangepaste query.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 3, slide 26"
+    ]
+  },
+  {
+    "id": "comment",
+    "file": "wp-reactie-moderatie.png",
+    "url": "https://wordpress.org/documentation/files/2023/08/comment_pending_numbered_smaller.png",
+    "page": "https://wordpress.org/documentation/article/comment-moderation/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Wachtende voorbeeldreactie met de acties Goedkeuren, Spam en Prullenbak.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 4, slide 16"
+    ]
+  },
+  {
+    "id": "comment-bulk",
+    "file": "wp-reactie-statussen.webp",
+    "url": "https://wordpress.org/documentation/files/2023/08/bulk-action.webp",
+    "page": "https://wordpress.org/documentation/article/comment-moderation/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Reactiebeheer met tabs voor wachtende, goedgekeurde en ongewenste reacties.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 4, slide 17"
+    ]
+  },
+  {
+    "id": "users",
+    "file": "wp-gebruikers.png",
+    "url": "https://i1.wp.com/wordpress.org/documentation/files/2019/01/users-screen.png?fit=1236%2C560&ssl=1",
+    "page": "https://wordpress.org/documentation/article/users-screen/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Gebruikersoverzicht met rollen per account.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 4, slide 21"
+    ]
+  },
+  {
+    "id": "plugins",
+    "file": "wp-plugins.png",
+    "url": "https://i0.wp.com/wordpress.org/documentation/files/2019/01/plugins-screen.png?fit=1221%2C400&ssl=1",
+    "page": "https://wordpress.org/documentation/article/plugins-screen/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Overzicht van geïnstalleerde plug-ins.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 4, slide 13"
+    ]
+  },
+  {
+    "id": "dashboard",
+    "file": "wp-dashboard.png",
+    "url": "https://wordpress.org/documentation/files/2018/10/500px-dashboard.png",
+    "page": "https://wordpress.org/documentation/article/dashboard-screen/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "WordPress-dashboard met het beheermenu aan de linkerkant.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 1, slide 25"
+    ]
+  },
+  {
+    "id": "discussion",
+    "file": "wp-reactie-instellingen.png",
+    "url": "https://wordpress.org/documentation/files/2018/11/settings-discussion-screenshot-scaled-1.png",
+    "page": "https://wordpress.org/documentation/article/settings-discussion-screen/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "WordPress-instellingen voor reacties en moderatie.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 4, slide 14"
+    ]
+  },
+  {
+    "id": "alt",
+    "file": "wp-alt-tekst.png",
+    "url": "https://wordpress.org/documentation/files/2026/08/image-block-alternative-text-field.png",
+    "page": "https://wordpress.org/documentation/article/image-block/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Het veld Alternatieve tekst bij een afbeeldingsblok.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 6, slide 10"
+    ]
+  },
+  {
+    "id": "resolution",
+    "file": "wp-beeldresolutie.png",
+    "url": "https://wordpress.org/documentation/files/2026/08/image-block-resolution.png",
+    "page": "https://wordpress.org/documentation/article/image-block/",
+    "credit": "WordPress.org, documentatiebijdragers",
+    "alt": "Resolutie-instelling van een afbeeldingsblok.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 6, slide 20"
+    ]
+  },
+  {
+    "id": "docker",
+    "file": "docker-architectuur.webp",
+    "url": "https://docs.docker.com/get-started/images/docker-architecture.webp",
+    "page": "https://docs.docker.com/get-started/docker-overview/",
+    "credit": "Docker, Inc.",
+    "alt": "Docker-client, daemon, images, containers en registry.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 1, slide 10"
+    ]
+  },
+  {
+    "id": "volumes",
+    "file": "docker-volumes.webp",
+    "url": "https://docs.docker.com/engine/storage/images/volumes-shared-storage.webp",
+    "page": "https://docs.docker.com/engine/storage/volumes/",
+    "credit": "Docker, Inc.",
+    "alt": "Containers op verschillende hosts gebruiken externe gedeelde opslag.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 5, slide 11"
+    ]
+  },
+  {
+    "id": "web",
+    "file": "client-server.png",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works/simple-client-server.png",
+    "page": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works",
+    "credit": "MDN Web Docs-bijdragers",
+    "alt": "Een client stuurt een verzoek naar de server en ontvangt een antwoord.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 1, slide 9"
+    ]
+  },
+  {
+    "id": "snapshots",
+    "file": "git-snapshots.png",
+    "url": "https://git-scm.com/book/en/v2/images/snapshots.png",
+    "page": "https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F",
+    "credit": "Scott Chacon en Ben Straub, Pro Git, CC BY-NC-SA 3.0",
+    "alt": "Git bewaart momentopnamen van bestanden bij opeenvolgende versies.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 5, slide 19"
+    ]
+  },
+  {
+    "id": "git",
+    "file": "git-werkstroom.png",
+    "url": "https://git-scm.com/book/en/v2/images/areas.png",
+    "page": "https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F",
+    "credit": "Scott Chacon en Ben Straub, Pro Git, CC BY-NC-SA 3.0",
+    "alt": "Werkmap, staging area en Git-repository met add en commit.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 6, slide 23"
+    ]
+  },
+  {
+    "id": "network",
+    "file": "devtools-netwerk.png",
+    "url": "https://developer.chrome.com/static/docs/devtools/network/image/the-network-log.png",
+    "page": "https://developer.chrome.com/docs/devtools/network/",
+    "credit": "Google, Chrome for Developers, CC BY 4.0",
+    "alt": "Network-paneel met de geladen netwerkverzoeken.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 6, slide 18"
+    ]
+  },
+  {
+    "id": "throttle",
+    "file": "devtools-throttling.png",
+    "url": "https://developer.chrome.com/static/docs/devtools/network/image/enable-throttling.png",
+    "page": "https://developer.chrome.com/docs/devtools/network/",
+    "credit": "Google, Chrome for Developers, CC BY 4.0",
+    "alt": "Netwerkvertraging instellen in Chrome DevTools.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 6, slide 22"
+    ]
+  },
+  {
+    "id": "backup",
+    "file": "externe-backup.jpg",
+    "url": "https://cdn.mos.cms.futurecdn.net/Rpm2WkaSPAH4qevAvhc58-2560-80.jpg",
+    "page": "https://www.techradar.com/how-to/how-to-fix-an-external-hard-drive-thats-not-showing-up",
+    "credit": "Getty Images, via TechRadar",
+    "alt": "Externe schijf met het opschrift BACKUP naast een laptop.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 5, slide 1"
+    ]
+  },
+  {
+    "id": "portal",
+    "file": "../../Opdracht/docker/seed/art/portal-2-screenshot.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/ss_f3f6787d74739d3b2ec8a484b5c994b3d31ef325.1920x1080.jpg?t=1790187113",
+    "page": "https://store.steampowered.com/app/620/",
+    "credit": "Portal 2, Valve, via Steam",
+    "alt": "Spelbeeld van Portal 2.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 1, slide 1"
+    ]
+  },
+  {
+    "id": "stardew",
+    "file": "../../Opdracht/docker/seed/art/stardew-valley-screenshot.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/ss_b887651a93b0525739049eb4194f633de2df75be.1920x1080.jpg?t=1786554168",
+    "page": "https://store.steampowered.com/app/413150/",
+    "credit": "Stardew Valley, ConcernedApe, via Steam",
+    "alt": "Spelbeeld van Stardew Valley.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 2, slide 1"
+    ]
+  },
+  {
+    "id": "hades",
+    "file": "../../Opdracht/docker/seed/art/hades-cover.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/library_600x900.jpg",
+    "page": "https://store.steampowered.com/app/1145360/",
+    "credit": "Hades, Supergiant Games, via Steam",
+    "alt": "Omslag van Hades.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 3, slide 1"
+    ]
+  },
+  {
+    "id": "undertale",
+    "file": "../../Opdracht/docker/seed/art/undertale-cover.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391540/library_600x900.jpg",
+    "page": "https://store.steampowered.com/app/391540/",
+    "credit": "Undertale, tobyfox, via Steam",
+    "alt": "Omslag van Undertale.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 4, slide 1"
+    ]
+  },
+  {
+    "id": "celeste",
+    "file": "../../Opdracht/docker/seed/art/celeste-cover.jpg",
+    "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/library_600x900.jpg",
+    "page": "https://store.steampowered.com/app/504230/",
+    "credit": "Celeste, Maddy Makes Games, via Steam",
+    "alt": "Omslag van Celeste.",
+    "accessed": "2026-10-30",
+    "used_on": [
+      "Week 6, slide 1"
+    ]
+  },
+  {
+    "id": "home",
+    "file": "../../Opdracht/docker/docs/preview-home-desktop.png",
+    "page": "../../Opdracht/docker/README.md",
+    "credit": "Eigen cursusvoorbeeld PixelAtlas. Gamebeelden: oorspronkelijke makers, via Steam",
+    "alt": "PixelAtlas-homepage met navigatie en uitgelichte games.",
+    "accessed": "2026-10-30",
+    "related_sources": "../../Opdracht/docker/seed/art-sources.json",
+    "used_on": [
+      "Week 1, slide 3"
+    ]
+  },
+  {
+    "id": "home-mobile",
+    "file": "../../Opdracht/docker/docs/preview-home-mobile.png",
+    "page": "../../Opdracht/docker/README.md",
+    "credit": "Eigen cursusvoorbeeld PixelAtlas. Gamebeelden: oorspronkelijke makers, via Steam",
+    "alt": "PixelAtlas-homepage op een smal scherm.",
+    "accessed": "2026-10-30",
+    "related_sources": "../../Opdracht/docker/seed/art-sources.json",
+    "used_on": [
+      "Week 2, slide 3"
+    ]
+  },
+  {
+    "id": "catalog",
+    "file": "../../Opdracht/docker/docs/preview-catalog-desktop.png",
+    "page": "../../Opdracht/docker/README.md",
+    "credit": "Eigen cursusvoorbeeld PixelAtlas. Gamebeelden: oorspronkelijke makers, via Steam",
+    "alt": "PixelAtlas-catalogus met filters en gamekaarten.",
+    "accessed": "2026-10-30",
+    "related_sources": "../../Opdracht/docker/seed/art-sources.json",
+    "used_on": [
+      "Week 4, slide 5"
+    ]
+  },
+  {
+    "id": "detail",
+    "file": "../../Opdracht/docker/docs/preview-game-desktop.png",
+    "page": "../../Opdracht/docker/README.md",
+    "credit": "Eigen cursusvoorbeeld PixelAtlas. Gamebeelden: oorspronkelijke makers, via Steam",
+    "alt": "PixelAtlas-detailpagina van Hades met spelgegevens en reviews.",
+    "accessed": "2026-10-30",
+    "related_sources": "../../Opdracht/docker/seed/art-sources.json",
+    "used_on": [
+      "Week 3, slide 19"
+    ]
+  },
+  {
+    "id": "detail-mobile",
+    "file": "../../Opdracht/docker/docs/preview-game-mobile.png",
+    "page": "../../Opdracht/docker/README.md",
+    "credit": "Eigen cursusvoorbeeld PixelAtlas. Gamebeelden: oorspronkelijke makers, via Steam",
+    "alt": "PixelAtlas-detailpagina op een smartphone.",
+    "accessed": "2026-10-30",
+    "related_sources": "../../Opdracht/docker/seed/art-sources.json",
+    "used_on": [
+      "Week 6, slide 4"
+    ]
+  },
+  {
+    "id": "compare",
+    "file": "../../Opdracht/docker/docs/preview-compare-desktop.png",
+    "page": "../../Opdracht/docker/README.md",
+    "credit": "Eigen cursusvoorbeeld PixelAtlas. Gamebeelden: oorspronkelijke makers, via Steam",
+    "alt": "Vergelijkingspagina van PixelAtlas met gamegegevens naast elkaar.",
+    "accessed": "2026-10-30",
+    "related_sources": "../../Opdracht/docker/seed/art-sources.json",
+    "used_on": [
+      "Week 3, slide 3"
+    ]
+  }
+]

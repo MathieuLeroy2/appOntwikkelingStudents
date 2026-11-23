@@ -1,0 +1,4 @@
+{
+  "markdown.marp.themes": ["./assets/slides/cursus.css"],
+  "markdown.marp.enableHtml": true
+}

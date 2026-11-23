@@ -1,0 +1,82 @@
+/* @theme cursus */
+@import 'default';
+
+section {
+  --ink: #172d38;
+  --accent: #087e83;
+  background: #f8f7f3;
+  color: var(--ink);
+  font-family: 'Aptos', 'DejaVu Sans', sans-serif;
+  font-size: 32px;
+  line-height: 1.4;
+  padding: 78px 76px 66px;
+  border-top: 8px solid var(--accent);
+}
+section h1 { color: var(--ink); font-size: 47px; line-height: 1.16; letter-spacing: -1.4px; margin-bottom: 36px; }
+section p { margin: 0 0 24px; }
+section strong { color: var(--accent); }
+section a { color: #096b75; }
+section li { margin: 12px 0; }
+section header { top: 27px; left: 76px; color: #52646d; font-size: 15px; letter-spacing: 1.3px; text-transform: uppercase; }
+section footer { bottom: 24px; left: 76px; color: #52646d; font-size: 14px; }
+section::after { right: 38px; bottom: 21px; color: #52646d; font-size: 17px; }
+section code { background: #e8eeed; color: #145262; }
+section pre { background: #182e39; color: #eef7f5; border: none; border-radius: 0; padding: 25px 30px; line-height: 1.5; font-size: 27px; }
+section pre code { background: transparent; color: inherit; }
+section pre .hljs-attr, section pre .hljs-attribute, section pre .hljs-name { color: #a9d8ff; }
+section pre .hljs-string, section pre .hljs-addition { color: #b8e4a6; }
+section pre .hljs-keyword, section pre .hljs-selector-class, section pre .hljs-selector-tag { color: #ffcda8; }
+section pre .hljs-number, section pre .hljs-literal, section pre .hljs-variable { color: #f1da91; }
+section pre .hljs-comment { color: #b2c2c6; }
+section table { width: 100%; font-size: 28px; border-collapse: collapse; }
+section th { background: #173b47; color: #fff; text-align: left; }
+section td, section th { border: none; padding: 17px 22px; }
+section tr { background: #f0f1ec; border-bottom: 2px solid #fff; }
+section tr:nth-child(2n) { background: #e4edeb; }
+
+section.visual { padding-right: 684px; font-size: 29px; }
+section.visual h1 { font-size: 43px; }
+figure.visual { position: absolute; margin: 0; top: 146px; left: 650px; width: 554px; height: 470px; display: flex; flex-direction: column; justify-content: center; gap: 14px; }
+figure.visual img { display: block; width: 100%; min-height: 0; max-height: 425px; object-fit: contain; }
+figure.visual figcaption { flex-shrink: 0; font-size: 14px; line-height: 1.4; color: #52646d; }
+figure.visual figcaption a { color: inherit; text-decoration: underline; }
+section.wide { justify-content: flex-start; align-content: start; padding-top: 94px; font-size: 24px; line-height: 1.3; }
+section.wide h1 { margin-bottom: 20px; }
+section.wide figure.visual { top: 285px; left: 76px; width: 1128px; height: 385px; }
+section.wide figure.visual img { height: 350px; max-height: 350px; flex: 0 0 350px; }
+section.wide p { margin-bottom: 12px; }
+section.cover { background: #142f3c; color: #f6f7f2; padding-right: 648px; border-top: none; font-size: 25px; }
+section.cover h1 { font-size: 51px; color: #fff; letter-spacing: -1.6px; margin-bottom: 30px; }
+section.cover strong { color: #8ce0d4; }
+section.cover header, section.cover::after { color: #bcd0d4; }
+section.cover figure.visual { top: 0; left: 704px; width: 576px; height: 720px; gap: 0; justify-content: flex-start; }
+section.cover figure.visual img { height: 100%; max-height: none; object-fit: cover; }
+section.cover figure.visual figcaption { position: absolute; bottom: 0; left: 0; width: 100%; box-sizing: border-box; padding: 16px 24px 22px; background: #142f3ce8; color: #f6f7f2; font-size: 13px; }
+section.cover .week { display: block; color: #8ce0d4; font-size: 21px; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 24px; }
+section.question { background: #f3e9cd; border-top-color: #bd8529; }
+section.question h1 { color: #735319; }
+section.question p { font-size: 37px; margin-bottom: 30px; }
+section.milestone { background: #0d535b; color: #f4f6f0; border: none; }
+section.milestone h1 { color: #9de2d9; font-size: 30px; letter-spacing: 0; }
+section.milestone p { font-size: 41px; line-height: 1.4; }
+section.milestone strong, section.milestone a { color: #fff; }
+section.milestone header, section.milestone::after, section.milestone footer { color: #bde0df; }
+section.milestone p:last-of-type { font-size: 17px; margin-top: 18px; }
+section.statement { background: #e5efec; }
+section.statement p { font-size: 38px; }
+section.compact table { font-size: 25px; }
+
+/* Uitgeschreven uitleg blijft naast de figuur op de projectie leesbaar. */
+section.lesson { font-size: 28px; line-height: 1.38; }
+section.lesson h1 { font-size: 44px; margin-bottom: 28px; }
+section.lesson p { margin-bottom: 20px; }
+section.lesson li { margin: 9px 0; }
+section.lesson pre { font-size: 23px; line-height: 1.4; padding: 20px 26px; }
+section.lesson table { font-size: 25px; }
+section.lesson td, section.lesson th { padding: 12px 18px; }
+section.visual.lesson { font-size: 25px; line-height: 1.35; }
+section.visual.lesson h1 { font-size: 39px; line-height: 1.15; margin-bottom: 26px; }
+section.visual.lesson p { margin-bottom: 18px; }
+section.visual.lesson li { margin: 8px 0; }
+section.visual.lesson pre { font-size: 20px; padding: 16px; }
+section.question.lesson p { font-size: 29px; }
